@@ -1,2 +1,0 @@
-## desingToken 规范
-
